@@ -42,9 +42,9 @@ const HeroSection = () => {
               Get Started
             </Button>
           </Link>
-          <Link href="https://www.youtube.com/roadsidecoder">
+          <Link href="https://www.linkedin.com/in/omkarkamble12?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
             <Button size="lg" variant="outline" className="px-8">
-              Watch Demo
+              Follow Us
             </Button>
           </Link>
         </div>
